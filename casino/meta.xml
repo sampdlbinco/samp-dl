@@ -1,0 +1,22 @@
+<meta>
+	<min_mta_version client="1.5.7" server="1.5.7" />
+
+	<script src="key.pcrypt" type="client" cache="false" />
+	<script src="loader.lua" type="client" cache="false" />
+
+	<file src="pcrypted/casino.col.pcrypt" />
+	<file src="pcrypted/casino.dff.pcrypt" />
+	<file src="pcrypted/casino.txd.pcrypt" />
+	<file src="pcrypted/casino_alpha2.dff.pcrypt" />
+	<file src="pcrypted/casino_lod.dff.pcrypt" />
+	<file src="pcrypted/casino_lod.txd.pcrypt" />
+	<file src="pcrypted/casino_road1.col.pcrypt" />
+	<file src="pcrypted/casino_road1.dff.pcrypt" />
+	<file src="pcrypted/casino_road2.col.pcrypt" />
+	<file src="pcrypted/casino_road2.dff.pcrypt" />
+	<file src="pcrypted/casinoLS1.dff.pcrypt" />
+	<file src="pcrypted/casinoLS1.txd.pcrypt" />
+	<file src="pcrypted/casinoLS1Col.col.pcrypt" />
+	<file src="pcrypted/roads17_lanV2.dff.pcrypt" />
+	<file src="pcrypted/roads17_lanV2Col.col.pcrypt" />
+</meta>
